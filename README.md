@@ -7,6 +7,3 @@ I’m a **16-year-old** self-taught student, tweaking imperfections with mods an
 # 📊 Useless Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mitko8009&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mitko8009&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mitko8009&icon=5&color=6)](https://visitcount.itsvg.in)
