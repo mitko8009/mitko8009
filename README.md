@@ -1,5 +1,5 @@
 # 📝 mitko8009 in 3 Lines
-I’m a **16-year-old** self-taught student, tweaking imperfections with mods and sometimes clashing with ideas along the way.<br>I’m mainly a modder, creating for games like _The Binding of Isaac, Minecraft_, and even platforms like _Shkolo and НЕИСПУО_.<br>I also dive into game development, working on a few standout projects for competitions and to push my own limits.
+I’m a **17-year-old** self-taught student, tweaking imperfections with mods and sometimes clashing with ideas along the way.<br>I’m mainly a modder, creating for games like _The Binding of Isaac, Minecraft_, and even platforms like _Shkolo and НЕИСПУО_.<br>I also dive into game development, working on a few standout projects for competitions and to push my own limits.
 
 
 # 💻 Tech Stack:
